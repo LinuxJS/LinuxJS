@@ -1,4 +1,4 @@
-# Hi there, I'm Abdullah! 👋
+# Hi there! 👋
 
 Welcome to my GitHub profile! I'm a passionate Python developer who loves creating impactful and innovative projects. Here's a bit more about me:
 
