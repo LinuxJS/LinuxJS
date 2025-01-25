@@ -1,6 +1,9 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm a passionate Python developer who loves creating impactful and innovative projects. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a passionate Python developer who loves creating impactful and innovative projects. 
+I like to follow the people with good projects but little followers. 😊
+
+Here's a bit more about me:
 
 ## 🌟 About Me
 
